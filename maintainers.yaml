@@ -1,14 +1,18 @@
 # Maintainer roster for CDK for Kubernetes (CDK8s)
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
-# TODO: Add maintainer GitHub handles
+# Source: https://github.com/cdk8s-team/cdk8s/blob/master/OWNERS.md#maintainers
 
-#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+# Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
 maintainers:
   - project_id: "cdk8s"
     org: "cdk8s-team"
     teams:
       - name: "project-maintainers"
         members:
-          # TODO: Add maintainer handles
-          - github-handle
+          - iliapolo         # Eli Polonsky
+          - vinayak-kukreja  # Vinayak Kukreja
+          - sumupitchayan    # Sumu Pitchayan
+          - evgenyka         # Evgeny Karasik
+          - udaypant         # Uday Pant
+          - tabern           # Nathan Taber
